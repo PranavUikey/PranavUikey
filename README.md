@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing a habit to read more books.
 - 🌱 I’m currently learning fastai framework and Spanish language.  
-- 💬 Ask me about OpenCV.
+- 💕 I love OpenCV.
 - 📫 How to reach me: pranav.aiadventures@gmail.com.
 - 😄 Quote: Everythings have limit but limit has not everything.
 - ⚡ Fun fact: Gangadhar hi Shaktimaan hai😜.
