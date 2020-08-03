@@ -2,7 +2,7 @@
 
 ## I'm a  Machine Learning Engineer, Developer and Teacher @[aiadventures.in][aiadv-website]
 - 🔭 I’m currently working on Myself!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning fastai framework.
 - 🥅 2020 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love travelling and 🐶.
 
