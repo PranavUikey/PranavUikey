@@ -45,6 +45,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of OpenCV Part 3](https://medium.com/analytics-vidhya/fundamentals-of-opencv-part-iii-226fc70c5860)
 - [Basics of OpenCV Part 2](https://medium.com/@pranavuiih/fundamentals-of-opencv-part-ii-74d5f67a4876)
 - [Basics of OpenCV Part 1](https://medium.com/analytics-vidhya/fundamentals-of-opencv-part-i-97b3a5c396e9)
 - [What is Jupyter notebook and Anaconda](https://medium.com/datadriveninvestor/anaconda-complete-installation-402d1d1cd29c)
