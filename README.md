@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranav 👋
 
-## I'm a  Machine Learning Engineer, Developer and Teacher @[aiadventures.in][aiadv-website]
+## I'm a  Machine Learning Engineer, Developer and Training Head @[aiadventures.in][aiadv-website]
 - 🔭 I’m currently working on Myself!
 - 🌱 I’m currently learning fastai framework.
 - 🥅 2020 Goals: Start Contributing to Open Source projects.
